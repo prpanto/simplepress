@@ -29,7 +29,7 @@ This is a simple CRUD to manage the companies, employees and categories with a b
 6. `npm i & npm run dev`
 7. `php artisan queue:work` to run the queue jobs
 
-`File upload work depend on the machine you have and maybe need to configure out.`
+`File upload work depend on the server you have and maybe need to configure out.`
 
 ## License
 
